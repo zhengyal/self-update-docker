@@ -1,0 +1,12 @@
+{
+  "name": "self-update-docker",
+  "description": "a self-updating node.js application running on Elastic Beanstalk Docker container",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
