@@ -4,7 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "express": "4.x"
+    "express": "4.x",
+    "aws-sdk": "2.x",
+    "properties": "1.x"
   },
   "scripts": {
     "start": "node app.js"
