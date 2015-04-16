@@ -6,7 +6,10 @@
   "dependencies": {
     "express": "4.x",
     "aws-sdk": "2.x",
-    "properties": "1.x"
+    "properties": "1.x",
+    "ip": "0.3",
+    "body-parser": "1.x",
+    "request": "2.x"
   },
   "scripts": {
     "start": "node app.js"
